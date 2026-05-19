@@ -29,27 +29,26 @@ While all the three models tested demonstrated strong predictive performance, Ra
 
 2. Breiman, L., Friedman, J., Olshen, R. A., & Stone, C. J. (2017). Classification and regression trees (1st ed.). Chapman and Hall/CRC. https://doi.org/10.1201/9781315139470
 
+3. Couronné, R., Probst, P., & Boulesteix, A.-L. (2018). Random forest versus logistic regression: a large-scale benchmark experiment. BMC Bioinformatics, 19(1). https://doi.org/10.1186/s12859-018-2264-5
 ‌
-2. Couronné, R., Probst, P., & Boulesteix, A.-L. (2018). Random forest versus logistic regression: a large-scale benchmark experiment. BMC Bioinformatics, 19(1). https://doi.org/10.1186/s12859-018-2264-5
-‌
-3. Drummond, C. (2017). Classification. Encyclopedia of Machine Learning and Data Mining, 205–208. https://doi.org/10.1007/978-1-4899-7687-1_111
+4. Drummond, C. (2017). Classification. Encyclopedia of Machine Learning and Data Mining, 205–208. https://doi.org/10.1007/978-1-4899-7687-1_111
 
-4. Fisher, R. A. (1936). The use of multiple measurements in taxonomic problems. Annals of Eugenics, 7(2), 179–188. https://doi.org/10.1111/j.1469-1809.1936.tb02137.x
+5. Fisher, R. A. (1936). The use of multiple measurements in taxonomic problems. Annals of Eugenics, 7(2), 179–188. https://doi.org/10.1111/j.1469-1809.1936.tb02137.x
 ‌
-5. Gasparini, S. (2024, September 3). Feature Transformation in PySpark for Machine Learning Models. Medium. https://medium.com/@sarahryliegasparini/feature-transformation-in-pyspark-for-machine-learning-models-5ef17fb8c4ae
+6. Gasparini, S. (2024, September 3). Feature Transformation in PySpark for Machine Learning Models. Medium. https://medium.com/@sarahryliegasparini/feature-transformation-in-pyspark-for-machine-learning-models-5ef17fb8c4ae
 ‌
-6. James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning: with applications in Python. Springer.
+7. James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning: with applications in Python. Springer.
 
-7. Kalyani, T., Vickram, A. S., & R. Dhanalakshmi. (2024). Comparing the performance of random forest with decision tree and logistic regression algorithm in loan default prediction. AIP Conference Proceedings, 3097, 020175–020175. https://doi.org/10.1063/5.0198496
+8. Kalyani, T., Vickram, A. S., & R. Dhanalakshmi. (2024). Comparing the performance of random forest with decision tree and logistic regression algorithm in loan default prediction. AIP Conference Proceedings, 3097, 020175–020175. https://doi.org/10.1063/5.0198496
 ‌
-8. Mohammed, A., & Kora, R. (2023). A comprehensive review on ensemble deep learning: opportunities and challenges. Journal of King Saud University - Computer and Information Sciences, 35(2). https://www.sciencedirect.com/science/article/pii/S1319157823000228
+9. Mohammed, A., & Kora, R. (2023). A comprehensive review on ensemble deep learning: opportunities and challenges. Journal of King Saud University - Computer and Information Sciences, 35(2). https://www.sciencedirect.com/science/article/pii/S1319157823000228
 
-9. Mondal, S., Roy, A., Akram, S. W., Zakir, S. M., Biswas, A., Bhattacharjee, K., & Das, A. (2024). Comparative study on classification techniques through IRIS Data Analysis. International Journal of Recent Trends in Multidisciplinary Research, 82–87. https://doi.org/10.59256/ijrtmr.20240402015
+10. Mondal, S., Roy, A., Akram, S. W., Zakir, S. M., Biswas, A., Bhattacharjee, K., & Das, A. (2024). Comparative study on classification techniques through IRIS Data Analysis. International Journal of Recent Trends in Multidisciplinary Research, 82–87. https://doi.org/10.59256/ijrtmr.20240402015
 ‌
-10. Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., & Duchesnay, É. (2011). Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12(85), 2825–2830.
+11. Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., & Duchesnay, É. (2011). Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12(85), 2825–2830.
 
-11. Saner, D. (2024, November 8). Enhancing PySpark performance: Smart use of caching and execution planning. Medium. https://medium.com/@dhanashrisaner.30/enhancing-pyspark-performance-smart-use-of-caching-and-execution-planning-f58fa3935492
+12. Saner, D. (2024, November 8). Enhancing PySpark performance: Smart use of caching and execution planning. Medium. https://medium.com/@dhanashrisaner.30/enhancing-pyspark-performance-smart-use-of-caching-and-execution-planning-f58fa3935492
 ‌
-12. Zaharia, M., Franklin, M. J., Ghodsi, A., Gonzalez, J., Shenker, S., Stoica, I., Xin, R. S., Wendell, P., Das, T., Armbrust, M., Dave, A., Meng, X., Rosen, J., & Venkataraman, S. (2016). Apache Spark: A unified engine for big data processing. Communications of the ACM, 59(11), 56–65. https://doi.org/10.1145/2934664
+13. Zaharia, M., Franklin, M. J., Ghodsi, A., Gonzalez, J., Shenker, S., Stoica, I., Xin, R. S., Wendell, P., Das, T., Armbrust, M., Dave, A., Meng, X., Rosen, J., & Venkataraman, S. (2016). Apache Spark: A unified engine for big data processing. Communications of the ACM, 59(11), 56–65. https://doi.org/10.1145/2934664
 ‌
-13. Zhou, Y. (2022). Study for iris classification based on multiple machine learning models. Highlights in Science, Engineering and Technology, 23, 342–349. https://doi.org/10.54097/hset.v23i.3620
+14. Zhou, Y. (2022). Study for iris classification based on multiple machine learning models. Highlights in Science, Engineering and Technology, 23, 342–349. https://doi.org/10.54097/hset.v23i.3620
